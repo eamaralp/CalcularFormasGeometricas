@@ -1,0 +1,6 @@
+C:\TFS\DB1 Trainee\SolutionTraineeDB1\CalcularFormasGeometricas\bin\Debug\CalcularFormasGeometricas.exe.config
+C:\TFS\DB1 Trainee\SolutionTraineeDB1\CalcularFormasGeometricas\obj\Debug\CalcularFormasGeometricas.csprojResolveAssemblyReference.cache
+C:\TFS\DB1 Trainee\SolutionTraineeDB1\CalcularFormasGeometricas\bin\Debug\CalcularFormasGeometricas.exe
+C:\TFS\DB1 Trainee\SolutionTraineeDB1\CalcularFormasGeometricas\bin\Debug\CalcularFormasGeometricas.pdb
+C:\TFS\DB1 Trainee\SolutionTraineeDB1\CalcularFormasGeometricas\obj\Debug\CalcularFormasGeometricas.exe
+C:\TFS\DB1 Trainee\SolutionTraineeDB1\CalcularFormasGeometricas\obj\Debug\CalcularFormasGeometricas.pdb
